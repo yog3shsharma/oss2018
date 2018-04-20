@@ -614,6 +614,10 @@ ul.list-style-none li a.green {
   align-items:center;
 }
 
+div.waves {
+	display:none
+}
+
 /* IE 10/11... */
 @media (min-width:700px){
   .oss-grid{
